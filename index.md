@@ -18,4 +18,4 @@ layout: default
 
 <br>
 
-**This text will be italic**
+**This text will be bold**
