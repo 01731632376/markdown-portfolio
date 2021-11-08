@@ -1,3 +1,3 @@
-Food 🍕
-Places 🇦🇺
-Cities 🗽
+* Food 🍕
+* Places 🇦🇺
+* Cities 🗽
