@@ -18,6 +18,5 @@ layout: default
 
 <br>
 
-**Thistextwillbebold**
 
 
