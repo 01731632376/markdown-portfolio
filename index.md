@@ -18,6 +18,6 @@ layout: default
 
 <br>
 
-**This text will be bold**
-__This will also be bold__
+**Thistextwillbebold**
+
 
